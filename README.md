@@ -1,6 +1,5 @@
 - 👋 Hi, We're @MushroomCamp
-- 👀 We're interested making Tools for Software Companies.
-- 💞️ We're looking to collaborate on SDK development with React , Web Assembly,Rust ,Go ,NiX & Java ; Docker ,Kubernetes.
+- 👀 We're looking to collaborate on SDK Development with React , Web Assembly, Rust ,Go ,Nix  Java & Docker.
 
 
 <!---
